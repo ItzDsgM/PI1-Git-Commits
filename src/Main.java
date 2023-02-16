@@ -8,6 +8,9 @@ public class Main {
             cars.add(new Car(true, i));
         }
         System.out.println(cars);
+<<<<<<< HEAD
 
+=======
+>>>>>>> 69765d7 (add cars toString and print)
     }
 }
