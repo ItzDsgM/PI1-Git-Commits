@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Main {
@@ -8,10 +7,7 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             cars.add(new Car(true, i));
         }
-<<<<<<< HEAD
         System.out.println(cars);
-=======
-        System.out.println("Ahh");
->>>>>>> 5cd94fa (add list on main and add cars on for loop)
+
     }
 }
